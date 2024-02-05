@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/keyword">
+        <file>C:/Users/13175/Desktop/keyword.txt</file>
+    </qresource>
+</RCC>

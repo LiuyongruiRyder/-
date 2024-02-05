@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/lan">
+        <file>ch.qm</file>
+        <file>en.qm</file>
+    </qresource>
+</RCC>

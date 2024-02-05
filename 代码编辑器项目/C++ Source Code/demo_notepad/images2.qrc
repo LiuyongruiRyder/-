@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/images2">
+        <file>images2/2.ico</file>
+        <file>images2/3.ico</file>
+        <file>images2/43.ico</file>
+        <file>images2/100.bmp</file>
+        <file>images2/104.bmp</file>
+        <file>images2/122.bmp</file>
+        <file>images2/128.bmp</file>
+        <file>images2/132.bmp</file>
+        <file>images2/200.bmp</file>
+        <file>images2/202.bmp</file>
+        <file>images2/204.bmp</file>
+        <file>images2/206.bmp</file>
+        <file>images2/208.bmp</file>
+        <file>images2/230.bmp</file>
+        <file>images2/304.bmp</file>
+        <file>images2/400.bmp</file>
+        <file>images2/402.bmp</file>
+        <file>images2/404.bmp</file>
+        <file>images2/406.bmp</file>
+        <file>images2/500.bmp</file>
+        <file>images2/502.bmp</file>
+        <file>images2/504.bmp</file>
+        <file>images2/506.bmp</file>
+        <file>images2/510.bmp</file>
+        <file>images2/512.bmp</file>
+        <file>images2/514.bmp</file>
+        <file>images2/516.bmp</file>
+        <file>images2/704.bmp</file>
+        <file>images2/706.bmp</file>
+        <file>images2/804.bmp</file>
+        <file>images2/back.jpg</file>
+        <file>images2/Doc.ico</file>
+        <file>images2/Excel.ico</file>
+        <file>images2/splash.jpg</file>
+        <file>images2/splash2.jpg</file>
+    </qresource>
+</RCC>
